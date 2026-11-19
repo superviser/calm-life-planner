@@ -2,9 +2,9 @@
 'use strict';
 /* Stamped by tools/stamp.py on every release. A new stamp makes the browser fetch the whole app again in one go,
    so a device never runs half an old version and half a new one. */
-const VERSION = 'db37a3e9a781';
+const VERSION = 'b7d42b93c09a';
 /* When this release was made, and where newer ones are published: see "fixes reach every copy" below. Stamped as well. */
-const BUILT = 1794961397;
+const BUILT = 1795130132;
 const UPDATES = 'https://raw.githubusercontent.com/superviser/calm-life-planner/';
 const SHELL = 'lp-shell-' + VERSION, CUSTOM = 'lp-custom';
 const FILES = [
